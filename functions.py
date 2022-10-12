@@ -7,4 +7,7 @@ def p2(x):
     return x+2
 
 def p3(x):
-    return x+2
+    return x+3
+
+def p4(x):
+    return x+4
