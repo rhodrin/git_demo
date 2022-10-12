@@ -14,3 +14,6 @@ def p4(x):
 
 def p5(x):
     return x+5
+
+def p6(x):
+    return x+6
